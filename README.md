@@ -43,7 +43,7 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
   
 <br>
   
-<div align="center" style="display: inline_block"><br>
+<!-- <div align="center" style="display: inline_block"><br>
   <a href="https://git-scm.com/"> <img align="center" alt="Kyuorhan-Js" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original-wordmark.svg"><a/>
   <a href="https://www.figma.com/"> <img align="center" alt="Kyuorhan-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg"><a/>
   <img align="center" alt="Kyuorhan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -55,11 +55,11 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
   <a href="https://nuxtjs.org/"> <img align="center" alt="Kyuorhan-Nuxtjs" height="100" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg"><a/>
 <!--   <img align="center" alt="Kyuorhan-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 <!--   <img align="right" alt="Kyuorhan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
-</div>      
+<!-- </div>        -->
   
 <br>    
     
-<div align="center">
+<!-- <div align="center">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://github.com/Kyuorhan/Library-SVG/blob/master/Logo/react-native-seeklogo.com.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.embarcadero.com/br/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/embarcadero/embarcadero-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
@@ -78,5 +78,5 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
 <!-- <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> &nbsp; -->
 <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> &nbsp;
 -->
-</div>    
+<!-- </div>     --> 
 
