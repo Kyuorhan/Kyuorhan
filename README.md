@@ -1,4 +1,4 @@
-### Hey Bro, 🐱‍👤 it's OK?
+### Hey Bro, 🐱‍👤 it's OK? !
 ---
 
 Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Campus - [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/). <br> Estou em busca por conhecimento e inovação voltado na área de tecnologia, mantendo sempre atualizado e projetando o futuro para novos desafios.
@@ -22,10 +22,10 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
   <a href="https://www.linkedin.com/in/jhonny-kyuorhan/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) --> 
 </div>     
-  
+ 
 ###  Framework  Language: 
 ---  
-
+<!-- [Profile views](https://gpvc.arturio.dev/Kyuorhan)  -->
 <div align="center" style="display: inline_block"><br>
   <a href="https://git-scm.com/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"><a/>
   <a href="https://www.npmjs.com/"> <img align="center" alt="Kyuorhan-NPM" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"><a/>
