@@ -1,4 +1,5 @@
-### Hey Bro, 🐱‍👤 it's OK? !
+### Hey Bro, 🐱‍👤 it's OK? 
+![Profile views](https://gpvc.arturio.dev/Kyuorhan)
 ---
 
 Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Campus - [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/). <br> Estou em busca por conhecimento e inovação voltado na área de tecnologia, mantendo sempre atualizado e projetando o futuro para novos desafios.
@@ -23,10 +24,10 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) --> 
 </div>     
  
-###  Framework  Language: 
+###    Framework  Language: 
 ---  
-<!-- [Profile views](https://gpvc.arturio.dev/Kyuorhan)  -->
-<div align="center" style="display: inline_block"><br>
+
+<div align="center" style="display: inline_block"> 
   <a href="https://git-scm.com/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"><a/>
   <a href="https://www.npmjs.com/"> <img align="center" alt="Kyuorhan-NPM" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"><a/>
   <a href="https://www.embarcadero.com/br/"> <img align="center" alt="Kyuorhan-Delphi" height="40" width="60" src="https://raw.githubusercontent.com/Kyuorhan/Kyuorhan/master/src/icons/delphi-svg/delphi_10.4_sydney-original.svg"><a/>
