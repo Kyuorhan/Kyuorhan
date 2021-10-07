@@ -24,9 +24,8 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) --> 
 </div>     
  
-###    Framework  Language: 
----  
-
+##    Framework  Language: 
+  
 <div align="center" style="display: inline_block"> 
   <a href="https://git-scm.com/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"><a/>
   <a href="https://www.npmjs.com/"> <img align="center" alt="Kyuorhan-NPM" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"><a/>
