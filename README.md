@@ -1,6 +1,6 @@
-### Hey Bro 🐱‍💻, it's OK?
-
-## ![Profile views](https://gpvc.arturio.dev/Kyuorhan)
+### Hey Bro 🐱‍💻, it's OK? 
+![Profile views](https://gpvc.arturio.dev/Kyuorhan)
+---
 
 Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Campus - [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/). <br> Estou em busca por conhecimento e inovação voltado na área de tecnologia, mantendo sempre atualizado e projetando o futuro para novos desafios.
 
