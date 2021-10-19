@@ -11,10 +11,15 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&langs_count=7&theme=buefy"/>
 </div> -->
-  
-| <a href="https://github.com/Kyuorhan/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kyuorhan's github stats" /></a> | <a href="https://github.com/Kyuorhan/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
+| <div align="center"><a href="https://github.com/Kyuorhan/github-readme-stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/Kyuorhan/github-readme-stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> | 
+| ------------- | ------------- |    
+</div> 
+
+<!-- | <a href="https://github.com/Kyuorhan/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kyuorhan's github stats" /></a> | <a href="https://github.com/Kyuorhan/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+ -->
+ 
 <br>
   
 <div align="center"> 
