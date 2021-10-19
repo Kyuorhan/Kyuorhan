@@ -16,10 +16,6 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
 | ------------- | ------------- |    
 </div> 
 
-<!-- | <a href="https://github.com/Kyuorhan/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kyuorhan's github stats" /></a> | <a href="https://github.com/Kyuorhan/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
- -->
- 
 <br>
   
 <div align="center"> 
@@ -32,6 +28,32 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) --> 
 </div>     
  
+<br>
+
+### Top Repositories
+---  
+
+| <div align="center"><a href="https://github.com/Kyuorhan/github-readme-stats"> <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy"/></a>
+| ------------- |
+</div> 
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Kyuorhan/github-readme-stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyuorhan"/>
+</div>
+
+
+<!-- <a href="https://github.com/Kyuorhan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy" />
+</a>
+<a href="https://github.com/Kyuorhan/Kyuorhan.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Kyuorhan.github.io&theme=buefy" />
+</a> -->
+
+<br>
+
 ### Framework/Technology: 
 ---  
 <div align="center" style="display: inline_block"> 
