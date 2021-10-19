@@ -36,10 +36,9 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
 </div>
 
 
-### Top Repositories
----  
+### Top Repositories 💻
 
-| <div align="center"><a href="https://github.com/Kyuorhan/github-readme-stats"> <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy"/></a> | <a href="https://github.com/Kyuorhan/github-readme-stats"> <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy" /></a> | 
+| <div align="center"><a href="https://github.com/Kyuorhan/github-readme-stats"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy"/></a> | <a href="https://github.com/Kyuorhan/github-readme-stats"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy" /></a> | 
 | ------------- | ------------- |    
 </div> 
 
