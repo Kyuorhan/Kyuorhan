@@ -6,13 +6,7 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
 
 <br>
 
-<!-- <div align="center">
-  <a href="https://github.com/Kyuorhan/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&langs_count=7&theme=buefy"/>
-</div> -->
-
-| <div align="center"><a href="https://github.com/Kyuorhan/github-readme-stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/Kyuorhan/github-readme-stats"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> | 
+| <div align="center"><a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> | 
 | ------------- | ------------- |    
 </div> 
 
@@ -31,27 +25,16 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
 <br>
 
 <div align="center">
-  <a href="https://github.com/Kyuorhan/github-readme-stats">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Kyuorhan">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyuorhan"/>
 </div>
 
 
 ### Top Repositories 💻
 
-| <div align="center"><a href="https://github.com/Kyuorhan/github-readme-stats"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy"/></a> | <a href="https://github.com/Kyuorhan/github-readme-stats"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy" /></a> | 
+| <div align="center"><a href="https://github.com/Kyuorhan/Layers_Router"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy"/></a> | <a href="https://github.com/Kyuorhan/Layers_Router"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy" /></a> | 
 | ------------- | ------------- |    
 </div> 
-
-<!-- | <div align="center"><a href="https://github.com/Kyuorhan/github-readme-stats"> <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy"/></a>
-| ------------- |
-</div>  -->
-
-<!-- <a href="https://github.com/Kyuorhan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy" />
-</a>
-<a href="https://github.com/Kyuorhan/Kyuorhan.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Kyuorhan.github.io&theme=buefy" />
-</a> -->
 
 <br>
 
@@ -76,19 +59,3 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
 <!--   <img align="right" alt="Kyuorhan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>    
   
-<!-- <div align="center" style="display: inline_block"><br>
-  <a href="https://git-scm.com/"> <img align="center" alt="Kyuorhan-JS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"><a/>
-  <a href="https://www.npmjs.com/"> <img align="center" alt="Kyuorhan-NPM" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"><a/>
-  <a href="https://www.w3.org/html/"> <img align="center" alt="Kyuorhan-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><a/>
-  <a href="https://www.w3schools.com/css/"> <img align="center" alt="Kyuorhan-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><a/>
-  <a href="https://nodejs.org/"> <img align="center" alt="Kyuorhan-Nodejs" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><a/>
-  <a href="https://reactnative.dev/"><img align="center" alt="Kyuorhan-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><a/>
-  <a href="https://reactjs.org/"><img align="center" alt="Kyuorhan-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><a/>
-  <a href="https://www.python.org/"> <img align="center" alt="Kyuorhan-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"><a/>
-  <a href="https://www.figma.com/"> <img align="center" alt="Kyuorhan-Figma" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"><a/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img align="center" alt="Kyuorhan-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a/>
-  <img align="center" alt="Kyuorhan-TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <a href="https://nuxtjs.org/"> <img align="center" alt="Kyuorhan-Nuxtjs" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg"><a/>
-<!--   <img align="center" alt="Kyuorhan-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-<!-- <img align="right" alt="Kyuorhan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
-<!-- </div>         -->
