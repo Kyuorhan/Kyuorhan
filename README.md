@@ -2,7 +2,9 @@
 
 ## ![Profile views](https://gpvc.arturio.dev/Kyuorhan)
 
-Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Campus - [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/). <br> Estou em busca por conhecimento e inovação voltado na área de tecnologia, mantendo sempre atualizado e projetando o futuro para novos desafios.
+Eu me chamo Jhonny, também conhecido por "Kyuorhan", sou completamente apaixonado por tecnologia e design, sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Campus - [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/). <br>
+
+- Atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios,
 
 <br>
 
@@ -30,7 +32,7 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyuorhan"/>
 </div>
 
-### Top Repositories 💻
+### ・ TOP/REPOSITORY
 
 | <div align="center"><a href="https://github.com/Kyuorhan/Layers_Router"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy"/></a> | <a href="https://github.com/Kyuorhan/Layers_Router"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,7 +41,7 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
 
 <br>
 
-### Framework/Technology:
+### ・ TECHNOLOGY
 
 ---
 
