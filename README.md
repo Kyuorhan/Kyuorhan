@@ -1,21 +1,24 @@
-### Hey Bro 🐱‍💻, it's OK?
+## Hey Bro 🐱‍💻, it's OK?
 
-## ![Profile views](https://gpvc.arturio.dev/Kyuorhan)
+# ![Profile views](https://gpvc.arturio.dev/Kyuorhan)
 
-Eu me chamo Jhonny, também conhecido por "Kyuorhan", sou completamente apaixonado por tecnologia e design, sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Campus - [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/). <br>
+Eu me chamo Jhonny, também conhecido por **Kyuorhan**, Atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.
+        
+  -  📱 Mobile Developer 
+  - 🎓 Analysis and Systems Development graduated by [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/)
+  - 🏢 I'm currently working at  [TopSapp - Gestão de provedores](https://www.topsapp.com.br/)
+  - ⚡️ Highly focused on a programming universe
 
-- Atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios,
 
 <br>
 
-| <div align="center"><a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <div align="center"><a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 </div>
 
 <br>
   
-<div align="center"> 
+ <div align="center" > 
 <!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://www.instagram.com/kyuorhan" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--  	<a href="https://www.twitch.tv/login" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
@@ -23,8 +26,8 @@ Eu me chamo Jhonny, também conhecido por "Kyuorhan", sou completamente apaixona
   <a href = "mailto:jkprogrammer96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonny-kyuorhan/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) --> 
-</div>     
- 
+</div>    
+
 <br>
 
 <div align="center">
@@ -32,36 +35,29 @@ Eu me chamo Jhonny, também conhecido por "Kyuorhan", sou completamente apaixona
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyuorhan"/>
 </div>
 
-### ・ TOP/REPOSITORY
+<!-- ### ・ TOP/REPOSITORY -->
 
-| <div align="center"><a href="https://github.com/Kyuorhan/Layers_Router"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy"/></a> | <a href="https://github.com/Kyuorhan/Layers_Router"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy" /></a> |
+<!-- | <div align="center"><a href="https://github.com/Kyuorhan/Layers_Router"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy"/></a> | <a href="https://github.com/Kyuorhan/Layers_Router"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-</div>
-
+</div> -->
 <br>
 
-### ・ TECHNOLOGY
+### ・ TECHNOLOGY/TOOLS 
+#  
 
----
+<div align="center" style="display: inline_block" > 
+
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
+
+</div>
 
 <div align="center" style="display: inline_block"> 
-  <a href="https://git-scm.com/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"><a/>
-  <a href="https://www.npmjs.com/"> <img align="center" alt="Kyuorhan-NPM" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"><a/>
-  <a href="https://www.embarcadero.com/br/"> <img align="center" alt="Kyuorhan-Delphi" height="40" width="60" src="https://raw.githubusercontent.com/Kyuorhan/Kyuorhan/master/src/icons/delphi-svg/delphi_10.4_sydney-original.svg"><a/>
-  <a href="https://www.w3.org/html/"> <img align="center" alt="Kyuorhan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><a/>
-  <a href="https://www.w3schools.com/css/"> <img align="center" alt="Kyuorhan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><a/>
-<!--   <a href="https://nodejs.org/en/"> <img align="center" alt="Kyuorhan-Nodejs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><a/> -->
-  <a href="https://flutter.dev/"> <img align="center" alt="Kyuorhan-Flutter" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"><a/>
-  <a href="https://dart.dev/"> <img align="center" alt="Kyuorhan-Dart" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg"><a/>
-  <a href="https://reactnative.dev/"> <img align="center" alt="Kyuorhan-ReactNative" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><a/>
-<!--   <a href="https://reactjs.org/"> <img align="center" alt="Kyuorhan-Reactjs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"><a/> -->
-<!--   <a href="https://nextjs.org/" target="_blank"> <img align="center" alt="Kyuorhan-Nextjs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"><a/> -->
-<!--   <a href="https://www.python.org/"> <img align="center" alt="Kyuorhan-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><a/> -->
-  <a href="https://www.figma.com/"> <img align="center" alt="Kyuorhan-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"><a/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img align="center" alt="Kyuorhan-JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a/>
-  <a href="https://www.typescriptlang.org/"> <img align="center" alt="Kyuorhan-TypeSript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><a/>
-<!--   <a href="https://nuxtjs.org/"> <img align="center" alt="Kyuorhan-Nuxtjs" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg"><a/> -->
-<!--   <img align="center" alt="Kyuorhan-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-<!--   <img align="right" alt="Kyuorhan-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+  
 </div>
+
+
+
+<br>
