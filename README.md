@@ -1,6 +1,6 @@
-## Hey Bro 🐱‍💻, it's OK?
+### Hey Bro 🐱‍💻, it's OK?
 
-# ![Profile views](https://gpvc.arturio.dev/Kyuorhan)
+## ![Profile views](https://gpvc.arturio.dev/Kyuorhan)
 
 Eu me chamo Jhonny, também conhecido por **Kyuorhan**, Atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.
         
@@ -12,16 +12,8 @@ Eu me chamo Jhonny, também conhecido por **Kyuorhan**, Atualmente estou buscand
 
 <br>
 
-| <div align="center"><a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-</div>
-
-<br>
-  
  <div align="center" > 
-<!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://www.instagram.com/kyuorhan" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!--  	<a href="https://www.twitch.tv/login" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
   <a href="https://discord.gg/nWaPT22Cce" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jkprogrammer96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonny-kyuorhan/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -30,21 +22,20 @@ Eu me chamo Jhonny, também conhecido por **Kyuorhan**, Atualmente estou buscand
 
 <br>
 
-<div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Kyuorhan">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyuorhan"/>
+| <div align="center"><a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 </div>
 
-<!-- ### ・ TOP/REPOSITORY -->
-
-<!-- | <div align="center"><a href="https://github.com/Kyuorhan/Layers_Router"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy"/></a> | <a href="https://github.com/Kyuorhan/Layers_Router"> <img height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Kyuorhan&repo=Layers_Router&theme=buefy" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-</div> -->
 <br>
 
-### ・ TECHNOLOGY/TOOLS 
-#  
+<!-- <div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Kyuorhan">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyuorhan"/>
+</div> -->
+
+<br>
+
+## <h3>・ TECHNOLOGY/TOOLS  </h3>
 
 <div align="center" style="display: inline_block" > 
 
