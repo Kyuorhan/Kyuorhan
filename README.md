@@ -1,7 +1,7 @@
 ### Hey Bro 🐱‍💻, it's OK?
 ## ![Profile views](https://gpvc.arturio.dev/Kyuorhan)
 
-Eu me chamo Jhonny, também conhecido por **Kyuorhan**, Atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.
+Eu me chamo Jhonny, também conhecido por **Kyuorhan**, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.
         
   -  📱 Mobile Developer 
   - 🎓 Analysis and Systems Development graduated by [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/)
