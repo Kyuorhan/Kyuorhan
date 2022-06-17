@@ -1,5 +1,4 @@
 ### Hey Bro 🐱‍💻, it's OK?
-
 ## ![Profile views](https://gpvc.arturio.dev/Kyuorhan)
 
 Eu me chamo Jhonny, também conhecido por **Kyuorhan**, Atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.
@@ -8,7 +7,6 @@ Eu me chamo Jhonny, também conhecido por **Kyuorhan**, Atualmente estou buscand
   - 🎓 Analysis and Systems Development graduated by [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/)
   - 🏢 I'm currently working at  [TopSapp - Gestão de provedores](https://www.topsapp.com.br/)
   - ⚡️ Highly focused on a programming universe
-
 
 <br>
 
@@ -33,9 +31,11 @@ Eu me chamo Jhonny, também conhecido por **Kyuorhan**, Atualmente estou buscand
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyuorhan"/>
 </div> -->
 
-<br>
 
-## <h3>・ TECHNOLOGY/TOOLS  </h3>
+### ・ TECHNOLOGY/TOOLS  
+##
+
+<br>
 
 <div align="center" style="display: inline_block" > 
 
@@ -48,7 +48,3 @@ Eu me chamo Jhonny, também conhecido por **Kyuorhan**, Atualmente estou buscand
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
   
 </div>
-
-
-
-<br>
