@@ -5,8 +5,8 @@ Eu me chamo Jhonny, também conhecido por **Kyuorhan**, atualmente estou buscand
         
   -  📱 Mobile Developer 
   - 🎓 Analysis and Systems Development graduated by [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/)
-  - 🏢 I'm currently working at  [TopSapp - Gestão de provedores](https://www.topsapp.com.br/)
-  - ⚡️ Highly focused on a programming universe
+  - ⚡️ Highly focused on a programming universe  
+ <!-- 🏢 I'm currently working at  [TopSapp - Gestão de provedores](https://www.topsapp.com.br/) -->
 
 <br>
 
