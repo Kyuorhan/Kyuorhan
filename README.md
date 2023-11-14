@@ -4,8 +4,9 @@
 
 Eu me chamo Jhonny, também conhecido por **Kyuorhan**, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.
         
-  -  📱 Mobile Developer 
-  - 🎓 Analysis and Systems Development graduated by [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/)
+  - 📱 Mobile Developer 
+  - 🎓 Analysis and Systems Development, graduated by [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/)
+  - 🎓 Projects of Cross-platform Mobile Applications, postgraduate by [UniAmérica/Centro Universitário União das Américas Descomplica](https://descomplica.com.br/)
   - ⚡️ Highly focused on a programming universe  
  <!-- 🏢 I'm currently working at  [TopSapp - Gestão de provedores](https://www.topsapp.com.br/) -->
 
@@ -16,7 +17,6 @@ Eu me chamo Jhonny, também conhecido por **Kyuorhan**, atualmente estou buscand
   <a href="https://discord.gg/nWaPT22Cce" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jkprogrammer96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonny-kyuorhan/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) --> 
 </div>    
 
 <br>
