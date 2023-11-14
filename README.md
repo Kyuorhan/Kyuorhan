@@ -5,8 +5,8 @@
 Eu me chamo Jhonny, também conhecido por **Kyuorhan**, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.
         
   - 📱 Mobile Developer 
-  - 🎓 Analysis and Systems Development, graduated by [UNIFASIPE/Centro Universitário](https://www.fasipe.com.br/)
-  - 🎓 Projects of Cross-platform Mobile Applications, postgraduate by [UniAmérica/Centro Universitário União das Américas Descomplica](https://descomplica.com.br/)
+  - 🎓 Analysis and Systems Development, graduated by [UNIFASIPE](https://www.fasipe.com.br/)
+  - 🎓 Projects of Cross-platform Mobile Applications, postgraduate by [UniAmérica + Descomplica](https://descomplica.com.br/)
   - ⚡️ Highly focused on a programming universe  
  <!-- 🏢 I'm currently working at  [TopSapp - Gestão de provedores](https://www.topsapp.com.br/) -->
 
