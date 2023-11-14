@@ -1,0 +1,55 @@
+Kami: Fully Animated Cursor Set by BlueGuy
+
+Please Download or Purchase only on my Official DeviantArt page: www. deviantart.com/blooguy to have access to future updates for free.
+
+Add me to your watchlists to get notifications!
+
+
+
+CURRENT VERSION: v2
+
+UPDATE LOG:
+
+-------------------
+v2 - Aug 2, 2022
+-------------------
+
+GENERAL:
+- Increased default size by a few pixels.
+- Increased outline width.
+- Animation polishes; animations are now faster and snappier.
+- Added 30+ new bonus cursors.
+- Added new color variations: Matte Gray, and Jet Black. The default white is now named Paper White.
+- A "Loop" variations are now available for select states.
+- A "Pointing Hand" variation for the link select is now available.
+- Kami is now available in "Regular" and "HD" size variation. Use HD if you have a HiDPI monitors.
+- Kami is also now available in 32 and 48 px format. 32px is the default for 100%-125% Windows display scale, and 48px for beyond 150%.
+- Updated the installer file (.inf). Now it will also copy the "Bonus Cursors" folder in the installation directory (C:\Windows\Cursors). No need to do it manually.
+- Reduced pause time with states with a short pause at the end of animations.
+- Shortened cursors and folder names to prevent errors concerning Windows "File location" character limit. These errors usually make some cursor file unselectable or the thumbnails not loading in the File Explorer.
+- Due to Windows' 1809 update bug still unpatched by Microsoft, the default "Normal" is temporarily set to a non-animated (.cur) variation to prevent the bug. The classic animated is still available inside the "Bonus Cursors" folder. Alternatively, if you want all of the states to be animated, use the new "Loop" variations inside the Bonus Cursors folder.
+- Corrected some incorrect hot spots.
+- Updated the guide on how to use bonus cursors.
+- Added additional guide on how to change custom cursor size.
+- Added additional states for the "Statics" set.
+- Removed some bonus cursors.
+- Changed the defaults.
+
+PREMIUM:
+- Added 50+ new bonus cursors.
+- The Free version is also now included along with the Premium Content download.
+
+
+-------------------
+v1.1 - Jan 18, 2018
+-------------------
+
+- Added 2 new cursors for the Windows 10's Fall Creators Update; "Location Select", and "Person Select". 
+- Added 2 cursors in "Statics" folder; "Location Select", and "Person Select".
+
+
+-------------------
+v1.0 - Oct 14, 2017
+-------------------
+
+- Released.
