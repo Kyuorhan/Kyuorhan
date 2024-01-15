@@ -1,0 +1,10 @@
+JetBrains Mono. A typeface for developers​_
+
+https://www.jetbrains.com/lp/mono/
+
+-----------------------------------------------------------------------------
+
+Hack Nerd Fonts 
+
+https://github.com/source-foundry/Hack-windows-installer/releases/tag/v1.6.0
+
