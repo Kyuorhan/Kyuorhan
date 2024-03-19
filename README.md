@@ -1,5 +1,5 @@
 
-<img align="right" height="520em" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/>
+<img align="right" height="420em" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/>
 
 <br><br><br>
 
@@ -7,7 +7,7 @@
 
 ##
 
-<h4 align="center">Eu me chamo Jhonny, também conhecido por <strong>Kyuorhan</strong>, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.</h4> 
+<h5 align="center">Eu me chamo Jhonny, também conhecido por <strong>Kyuorhan</strong>, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.</h5> 
 
 <br>
 
