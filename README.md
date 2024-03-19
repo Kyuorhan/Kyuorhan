@@ -1,23 +1,35 @@
-### Hey Bro 🐱‍💻, it's OK?
-##
-<!--  ## ![Profile views](https://gpvc.arturio.dev/Kyuorhan) -->
 
-Eu me chamo Jhonny, também conhecido por **Kyuorhan**, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.
-        
-  - 📱 Mobile Developer 
-  - 🎓 Analysis and Systems Development, graduated by [UNIFASIPE](https://www.fasipe.com.br/)
-  - 🎓 Projects of Cross-platform Mobile Applications, postgraduate by [UniAmérica + Descomplica](https://descomplica.com.br/)
-  - ⚡️ Highly focused on a programming universe  
- <!-- 🏢 I'm currently working at  [TopSapp - Gestão de provedores](https://www.topsapp.com.br/) -->
+<img align="right" height="520em" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/>
+
+<br><br><br>
+
+<h3 align="center">Hey Bro 🐱‍💻, it's OK?</h3>
+
+##
+
+<h4 align="center">Eu me chamo Jhonny, também conhecido por <strong>Kyuorhan</strong>, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.</h4> 
 
 <br>
 
+<div align="left">
+        
+  - ```  📱 Mobile Developer  ``` <br>
+  - ```  🎓 Analysis and Systems Development, graduated by  ``` [UNIFASIPE](https://www.fasipe.com.br/) <br>
+  - ```  🎓 Projects of Cross-platform Mobile Applications, postgraduate by  ``` [UniAmérica + Descomplica](https://descomplica.com.br/)  <br>
+  - ```  ⚡️ Highly focused on a programming universe  ```  <br>
+ <!-- 🏢 I'm currently working at  [TopSapp - Gestão de provedores](https://www.topsapp.com.br/) -->
+</div>
+
+
+<br><br><br><br><br>
+
  <div align="center" > 
-  <a href="https://www.instagram.com/kyuorhan" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/nWaPT22Cce" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jkprogrammer96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonny-kyuorhan/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>    
+  <a href = "mailto:jkdevprogrammer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/kyuorhan" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/Kyuorhan/" target="_blank"> <img src="https://img.shields.io/badge/Steam-465871?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>   
+  <a href="https://www.twitch.tv/kyuorhan" target="_blank"> <img src="https://img.shields.io/badge/Twitch-A970FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+</div>   
 
 <br>
 
@@ -33,7 +45,7 @@ Eu me chamo Jhonny, também conhecido por **Kyuorhan**, atualmente estou buscand
 </div> -->
 
 
-### ・ TECHNOLOGY/TOOLS  
+### **<h3 align="center">TECHNOLOGY & TOOLS</h3>**
 ##
 
 <br>
