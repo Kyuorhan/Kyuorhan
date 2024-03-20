@@ -1,5 +1,4 @@
-
-<img align="right" height="460em" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/>
+<p><img align="right" alt="Profile Card" height="460px" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/></p>
 
 <br>
 
@@ -22,15 +21,15 @@
 
 <br>
 
- <div align="center" > 
-  <a href="https://www.linkedin.com/in/jhonny-kyuorhan/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jkdevprogrammer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/kyuorhan" target="_blank"> <img src="https://img.shields.io/badge/Twitch-A970FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/kyuorhan" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://steamcommunity.com/id/Kyuorhan/" target="_blank"> <img src="https://img.shields.io/badge/Steam-465871?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> -->  
-</div>   
-
-<br><br><br>
+  <div align="center" > 
+    <a href="https://www.linkedin.com/in/jhonny-kyuorhan/" target="_blank"> <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:jkdevprogrammer@gmail.com"><img height="30em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/kyuorhan" target="_blank"> <img height="30em" src="https://img.shields.io/badge/Twitch-A970FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/kyuorhan" target="_blank"> <img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <!-- <a href="https://steamcommunity.com/id/Kyuorhan/" target="_blank"> <img height="30em" src="https://img.shields.io/badge/Steam-465871?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> -->  
+  </div>   
+  
+<br> <br> <br>
 
 <div align="center"> 
         
@@ -51,14 +50,20 @@
 
 <br>
 
-<div align="center" style="display: inline_block" > 
-
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
-
-</div>
+<div align="center" > 
+  <img alt="JavaScript" height="30em" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a> 
+  <img alt="TypeScript" height="30em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="React" height="30em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="React-Native" height="30em" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Insomnia" height="30em" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+</div>   
 
 <div align="center" style="display: inline_block"> 
+  <img alt="Flutter" height="30em" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="Dart" height="30em" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="Expo" height="30em" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white">
+  <img alt="Figma" height="30em" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="MySQL" height="30em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="SQLite" height="30em" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+</div>   
 
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
-  
-</div>
