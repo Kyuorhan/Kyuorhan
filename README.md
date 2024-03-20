@@ -32,7 +32,9 @@
 
 <br><br><br>
 
-| <div align="center"><a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> |
+<div align="center"> 
+        
+|<a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 </div>
 
