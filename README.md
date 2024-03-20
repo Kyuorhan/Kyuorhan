@@ -1,14 +1,14 @@
-<p><img align="right" alt="Profile Card" height="500em" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/></p>
+<p><img align="right" alt="Profile Card" height="480em" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/></p>
 
 <br>
 
-**<h3 align="center">Hey Bro 🐱‍💻, it's OK?</h3>**
+### <h3 align="center">Hey Bro 🐱‍💻, it's OK?</h3>
 
 ##
 
 <h4 align="center">Eu me chamo Jhonny, também conhecido por <strong>Kyuorhan</strong>, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.</h4> 
 
-<br>
+###
 
 <p align="left">
         
@@ -39,16 +39,10 @@
 
 <br>
 
-<!-- <div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Kyuorhan">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyuorhan"/>
-</div> -->
 
+### <h3 align="center">TECHNOLOGY & TOOLS</h3>
 
-### **<h3 align="center">TECHNOLOGY & TOOLS</h3>**
 ##
-
-<br>
 
 <div align="center" > 
   <img alt="JavaScript" height="30em" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a> 
