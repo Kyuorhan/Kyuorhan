@@ -8,7 +8,7 @@
 
 <h4 align="center">Eu me chamo Jhonny, também conhecido por <strong>Kyuorhan</strong>, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.</h4> 
 
-###
+<br>
 
 <p align="left">
         
