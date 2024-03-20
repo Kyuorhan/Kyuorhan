@@ -1,4 +1,4 @@
-<p><img align="right" alt="Profile Card" height="460px" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/></p>
+<p><img align="right" alt="Profile Card" height="500em" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/></p>
 
 <br>
 
@@ -10,30 +10,30 @@
 
 <br>
 
-<div align="left">
+<p align="left">
         
   - ```  📱 Mobile Developer  ``` <br>
   - ```  🎓 Analysis and Systems Development, graduated by  ``` [UNIFASIPE](https://www.fasipe.com.br/) <br>
   - ```  🎓 Projects of Cross-platform Mobile Applications, postgraduate by  ``` [UniAmérica + Descomplica](https://descomplica.com.br/)  <br>
   - ```  ⚡️ Highly focused on a programming universe  ```  <br>
  <!-- 🏢 I'm currently working at  [TopSapp - Gestão de provedores](https://www.topsapp.com.br/) -->
-</div>
+</p>
 
 <br>
 
-  <div align="center" > 
+  <p align="center" > 
     <a href="https://www.linkedin.com/in/jhonny-kyuorhan/" target="_blank"> <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:jkdevprogrammer@gmail.com"><img height="30em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/kyuorhan" target="_blank"> <img height="30em" src="https://img.shields.io/badge/Twitch-A970FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/kyuorhan" target="_blank"> <img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <!-- <a href="https://steamcommunity.com/id/Kyuorhan/" target="_blank"> <img height="30em" src="https://img.shields.io/badge/Steam-465871?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> -->  
-  </div>   
+  </p>   
   
-<br> <br> <br>
+<br> <br>
 
 <div align="center"> 
         
-|<a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/Kyuorhan/Kyuorhan"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<a href="https://github.com/Kyuorhan/Kyuorhan"> <img width="360em" src="https://github-readme-stats.vercel.app/api?username=Kyuorhan&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/Kyuorhan/Kyuorhan"> <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuorhan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 </div>
 
