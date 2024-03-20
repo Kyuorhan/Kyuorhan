@@ -1,5 +1,5 @@
 
-<img align="right" height="460em" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/>
+<img align="right" height="450em" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/>
 
 <br>
 
@@ -20,8 +20,7 @@
  <!-- 🏢 I'm currently working at  [TopSapp - Gestão de provedores](https://www.topsapp.com.br/) -->
 </div>
 
-
-<br><br><br>
+<br><br><br><br>
 
  <div align="center" > 
   <a href="https://www.linkedin.com/in/jhonny-kyuorhan/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
