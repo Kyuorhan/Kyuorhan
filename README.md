@@ -16,7 +16,7 @@
   - ```  🎓 Analysis and Systems Development, graduated by  ``` [UNIFASIPE](https://www.fasipe.com.br/) <br>
   - ```  🎓 Projects of Cross-platform Mobile Applications, postgraduate by  ``` [UniAmérica + Descomplica](https://descomplica.com.br/)  <br>
   - ```  ⚡️ Highly focused on a programming universe  ```  <br>
- <!-- 🏢 I'm currently working at  [TopSapp - Gestão de provedores](https://www.topsapp.com.br/) -->
+  - ```  🏢 I'm currently working at  ``` [Singular Model](https://www.singularmodel.com.br/)  <br>  
 </p>
 
 <br>
