@@ -1,4 +1,4 @@
-<p><img align="right" alt="Profile Card" height="440em" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/></p>
+<p><img align="right" alt="Profile Card" width="250em" src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"/></p>
 
 <br>
 
