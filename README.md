@@ -2,7 +2,7 @@
   <img 
     align="right" 
     alt="Profile Card" 
-    style="width: 32.5%; height: auto; padding: 10%;" 
+    style="width: 32%; height: auto; padding: 10%;" 
 src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"
   />
 </p>
