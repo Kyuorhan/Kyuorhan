@@ -11,20 +11,19 @@
 
 ## -->
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding: 20px;">
-    <h3 align="center">Hey Bro 🐱‍💻, it's OK?</h3>
-    <hr style="border: 1px solid #ccc; margin: 20px 0;">
-    <h4 align="center">Eu me chamo Jhonny, também conhecido por <strong>Kyuorhan</strong>, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.</h4>
-  </div>
-  <div style="flex: 0 0 31%; padding: 10px;">
-    <img 
-      alt="Profile Card" 
-      style="width: 100%; height: auto;" 
-      src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"
-    />
-  </div>
-</div>
+
+<p>
+  <img 
+    align="right" 
+    alt="Profile Card" 
+    style="width: 31%; height: auto; padding: 10%;" 
+    src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"
+  />
+</p>
+
+<h3 align="center">Hey Bro 🐱‍💻, it's OK?</h3>
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
+<h4 align="center">Eu me chamo Jhonny, também conhecido por <strong>Kyuorhan</strong>, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.</h4>
 
 <!-- <h4 align="center">Eu me chamo Jhonny, também conhecido por <strong>Kyuorhan</strong>, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.</h4>
 
