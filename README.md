@@ -11,7 +11,7 @@ src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df7203
 
 ##
 
-<h4 align="center">Eu me chamo Jhonny, também conhecido por <strong>Kyuorhan</strong>, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.</h4>
+<h4 align="center">Sou Jhonny, conhecido como <strong>Kyuorhan</strong>, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.</h4>
 
 <br> -->
 
@@ -30,11 +30,9 @@ src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df7203
 
 ---
 
-<p align="center">Eu me chamo Jhonny, também conhecido por <strong>Kyuorhan</strong>, atualmente estou buscando aperfeiçoar meus conhecimentos, sempre inovando e projetando meu futuro para novos desafios.</p>
+<p align="center">Eu me chamo Jhonny, conhecido como <strong>Kyuorhan</strong>. Busco constantemente aprimorar meus conhecimentos, inovando e preparando-me para novos desafios.</p>
 
 <br>
-
-
 
 <p align="left">
         
@@ -45,7 +43,7 @@ src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df7203
  <!--   - ```  🏢 I'm currently working at  ``` [Singular Model](https://www.singularmodel.com.br/)  <br>  -->
 </p>
 
-<br> <br>
+<br> <br> <br> 
 
   <p align="center" > 
     <a href="https://www.linkedin.com/in/jhonny-kyuorhan/" target="_blank"> <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
