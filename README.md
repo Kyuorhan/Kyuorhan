@@ -15,6 +15,7 @@ src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df7203
 
 <br> -->
 
+<!-- 
 <p>
   <img 
     align="right" 
@@ -23,10 +24,11 @@ src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df7203
     src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"
   />
 </p>
+-->
 
 <h3 align="center">Hey Bro 🐱‍💻, it's OK?</h3>
 
----
+##
 
 <p align="center">Eu me chamo Jhonny, conhecido como <strong>Kyuorhan</strong>. Busco constantemente aprimorar meus conhecimentos, inovando e preparando-me para novos desafios.</p>
 
