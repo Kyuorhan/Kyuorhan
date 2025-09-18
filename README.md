@@ -43,7 +43,7 @@ src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df7203
  <!--   - ```  🏢 I'm currently working at  ``` [Singular Model](https://www.singularmodel.com.br/)  <br>  -->
 </p>
 
-<br> <br
+<br> <br>
 
   <p align="center" > 
     <a href="https://www.linkedin.com/in/jhonny-kyuorhan/" target="_blank"> <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -53,7 +53,7 @@ src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df7203
     <!-- <a href="https://steamcommunity.com/id/Kyuorhan/" target="_blank"> <img height="30em" src="https://img.shields.io/badge/Steam-465871?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> -->  
   </p>   
   
-<br> <br
+<br> <br>
 
 <div align="center"> 
         
