@@ -1,0 +1,630 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV-PT Jhonny Limberger Dinarte</title>
+    <style>
+      @page {
+        size: A4;
+        margin: 0;
+      }
+
+      :root {
+        --bg: #0b1020;
+        --bg-soft: #11182d;
+        --panel: #0f172a;
+        --panel-2: #111c34;
+        --card: rgba(255, 255, 255, 0.05);
+        --border: rgba(255, 255, 255, 0.08);
+        --text: #e5ecff;
+        --muted: #98a6c7;
+        --accent: #5eead4;
+        --accent-2: #60a5fa;
+        --white: #ffffff;
+        --chip: rgba(255, 255, 255, 0.07);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        background: #09101d;
+        color: var(--text);
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+
+      body {
+        padding: 12mm 0;
+      }
+
+      .page {
+        width: 210mm;
+        min-height: 297mm;
+        margin: 0 auto;
+        background:
+          radial-gradient(
+            circle at top left,
+            rgba(96, 165, 250, 0.16),
+            transparent 28%
+          ),
+          radial-gradient(
+            circle at top right,
+            rgba(94, 234, 212, 0.1),
+            transparent 25%
+          ),
+          linear-gradient(135deg, #08111f 0%, #0b1020 45%, #0f1830 100%);
+        display: grid;
+        grid-template-columns: 72mm 1fr;
+        gap: 0;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+      }
+
+      .sidebar {
+        background: rgba(255, 255, 255, 0.04);
+        border-right: 1px solid var(--border);
+        padding: 12mm 6mm;
+      }
+
+      .main {
+        padding: 14mm 10mm;
+      }
+
+      /* .avatar {
+        width: 22mm;
+        height: 22mm;
+        border-radius: 6mm;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 11pt;
+        font-weight: bold;
+        color: white;
+        background: linear-gradient(135deg, var(--accent-2), var(--accent));
+        margin-bottom: 8mm;
+      } */
+
+      .name {
+        font-size: 17pt;
+        line-height: 1.08;
+        font-weight: bold;
+        color: var(--white);
+        margin: 0 0 2.5mm 0;
+        letter-spacing: -0.2px;
+        overflow-wrap: normal;
+        word-break: normal;
+      }
+
+      .headline {
+        font-size: 9.6pt;
+        color: var(--accent);
+        font-weight: bold;
+        margin: 0 0 3.5mm 0;
+      }
+
+      .location {
+        font-size: 8.8pt;
+        color: var(--muted);
+        margin: 0;
+      }
+
+      .hero {
+        background: linear-gradient(
+          135deg,
+          rgba(96, 165, 250, 0.1),
+          rgba(94, 234, 212, 0.06)
+        );
+        border: 1px solid var(--border);
+        border-radius: 6mm;
+        padding: 8mm;
+        margin-bottom: 7mm;
+      }
+
+      .section {
+        background: rgba(255, 255, 255, 0.04);
+        border: 1px solid var(--border);
+        border-radius: 6mm;
+        padding: 6mm;
+        margin-bottom: 6mm;
+      }
+
+      .section:last-child {
+        margin-bottom: 0;
+      }
+
+      .section-title {
+        margin: 0 0 4mm 0;
+        font-size: 8pt;
+        text-transform: uppercase;
+        letter-spacing: 0.18em;
+        color: var(--accent);
+        font-weight: bold;
+      }
+
+      .summary {
+        margin: 0;
+        font-size: 9.2pt;
+        line-height: 1.55;
+        color: var(--text);
+        text-align: justify;
+      }
+
+      .contact-item {
+        margin-bottom: 4mm;
+      }
+
+      .contact-item:last-child {
+        margin-bottom: 0;
+      }
+
+      .contact-label {
+        display: block;
+        font-size: 7.5pt;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--white);
+        margin-bottom: 1mm;
+        font-weight: bold;
+      }
+
+      .contact-value {
+        font-size: 8.8pt;
+        color: var(--muted);
+        word-break: break-word;
+        line-height: 1.45;
+      }
+
+      .chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2mm;
+        align-items: stretch;
+      }
+
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 7.5mm;
+        padding: 1.6mm 2.8mm;
+        border-radius: 999px;
+        background: var(--chip);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        color: var(--text);
+        font-size: 7.1pt;
+        text-align: center;
+        white-space: nowrap;
+      }
+
+      .entry {
+        margin-bottom: 5mm;
+        padding-left: 4mm;
+        border-left: 0.6mm solid rgba(96, 165, 250, 0.28);
+        position: relative;
+      }
+
+      .entry:last-child {
+        margin-bottom: 0;
+      }
+
+      .entry::before {
+        content: "";
+        width: 3mm;
+        height: 3mm;
+        border-radius: 50%;
+        background: linear-gradient(135deg, var(--accent-2), var(--accent));
+        position: absolute;
+        left: -1.8mm;
+        top: 1.5mm;
+      }
+
+      .entry-header {
+        display: table;
+        width: 100%;
+        margin-bottom: 1.5mm;
+      }
+
+      .entry-header-left,
+      .entry-header-right {
+        display: table-cell;
+        vertical-align: top;
+      }
+
+      .entry-header-right {
+        text-align: right;
+        width: 30mm;
+      }
+
+      .entry-title {
+        margin: 0;
+        font-size: 10pt;
+        color: var(--white);
+        font-weight: bold;
+      }
+
+      .entry-role {
+        margin: 1mm 0 1mm 0;
+        font-size: 8.8pt;
+        color: var(--accent);
+        font-weight: bold;
+      }
+
+      .entry-date {
+        font-size: 8pt;
+        color: var(--muted);
+        font-weight: normal;
+      }
+
+      .entry-location {
+        margin: 0 0 2mm 0;
+        font-size: 8.4pt;
+        color: var(--muted);
+      }
+
+      .entry-list {
+        margin: 0;
+        padding-left: 4mm;
+        color: var(--muted);
+      }
+
+      .entry-list li {
+        margin-bottom: 1.5mm;
+        font-size: 8.7pt;
+        line-height: 1.4;
+      }
+
+      .entry-list li:last-child {
+        margin-bottom: 0;
+      }
+
+      .edu-item {
+        margin-bottom: 4.5mm;
+        padding-left: 4mm;
+        border-left: 0.6mm solid rgba(94, 234, 212, 0.22);
+      }
+
+      .edu-item:last-child {
+        margin-bottom: 0;
+      }
+
+      .edu-title {
+        margin: 0 0 1mm 0;
+        font-size: 9.4pt;
+        color: var(--white);
+        font-weight: bold;
+        line-height: 1.35;
+      }
+
+      .edu-course {
+        margin: 0 0 1mm 0;
+        font-size: 8.8pt;
+        color: var(--accent);
+        font-weight: bold;
+        line-height: 1.35;
+      }
+
+      .edu-meta {
+        margin: 0;
+        font-size: 8.2pt;
+        color: var(--muted);
+        line-height: 1.4;
+      }
+
+      .lang {
+        font-size: 8.8pt;
+        color: var(--text);
+        background: rgba(255, 255, 255, 0.06);
+        border: 1px solid var(--border);
+        border-radius: 4mm;
+        padding: 3mm 4mm;
+        display: inline-block;
+      }
+
+      @media screen and (max-width: 900px) {
+        body {
+          padding: 0;
+        }
+
+        .page {
+          width: 100%;
+          min-height: auto;
+          grid-template-columns: 1fr;
+          box-shadow: none;
+        }
+
+        .sidebar,
+        .main {
+          padding: 24px;
+        }
+      }
+
+      @media print {
+        body {
+          padding: 0;
+          background: transparent;
+        }
+
+        .page {
+          margin: 0;
+          box-shadow: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <aside class="sidebar">
+        <div style="margin-bottom: 8mm">
+          <h1 class="name">Jhonny Limberger Dinarte</h1>
+          <p class="headline">
+            Senior Mobile Engineer | React Native, Flutter & UX/UI Design
+          </p>
+          <p class="location">Florianópolis, Santa Catarina, Brasil</p>
+        </div>
+
+        <div class="section" style="margin-top: 8mm">
+          <h2 class="section-title">Contato</h2>
+
+          <div class="contact-item">
+            <span class="contact-label">Telefone</span>
+            <div class="contact-value">(66) 9 9913-0023</div>
+          </div>
+
+          <div class="contact-item">
+            <span class="contact-label">E-mail</span>
+            <div class="contact-value">jk.developrs@gmail.com</div>
+          </div>
+
+          <div class="contact-item">
+            <span class="contact-label">LinkedIn</span>
+            <div class="contact-value">linkedin.com/in/jhonny-kyuorhan</div>
+          </div>
+
+          <div class="contact-item">
+            <span class="contact-label">GitHub</span>
+            <div class="contact-value">github.com/Kyuorhan</div>
+          </div>
+
+          <div class="contact-item">
+            <span class="contact-label">Carta de Recomendação</span>
+            <div class="contact-value">Disponível mediante solicitação</div>
+          </div>
+        </div>
+
+        <div class="section">
+          <h2 class="section-title">Competências Principais</h2>
+          <div class="chips">
+            <span class="chip">React Native</span>
+            <span class="chip">TypeScript</span>
+            <span class="chip">Next.js</span>
+            <span class="chip">Flutter</span>
+            <span class="chip">Dart</span>
+            <span class="chip">Push Notifications</span>
+            <span class="chip">Crashlytics</span>
+            <span class="chip">App Signing</span>
+            <span class="chip">Android Studio</span>
+            <span class="chip">Google Play Console</span>
+            <span class="chip">Xcode</span>
+            <span class="chip">App Store Connect</span>
+            <span class="chip">Firebase</span>
+            <span class="chip">Prisma ORM</span>
+            <span class="chip">Atomic Design</span>
+          </div>
+        </div>
+
+        <div class="section">
+          <h2 class="section-title">Competências Complementares</h2>
+          <div class="chips">
+            <span class="chip">Node.js</span>
+            <span class="chip">Tailwind CSS</span>
+            <span class="chip">Styled-components</span>
+            <span class="chip">Figma</span>
+            <span class="chip">UX/UI Design</span>
+            <span class="chip">Clean Code</span>
+            <span class="chip">Code Review</span>
+            <span class="chip">SOLID</span>
+            <span class="chip">Design Patterns</span>
+            <span class="chip">Scrum</span>
+            <span class="chip">Kanban</span>
+            <span class="chip">MVP</span>
+            <span class="chip">Delphi</span>
+            <span class="chip">MySQL</span>
+            <span class="chip">SQLite</span>
+          </div>
+        </div>
+
+        <div class="section">
+          <h2 class="section-title">IA & Ferramentas</h2>
+          <div class="chips">
+            <span class="chip">GitHub Copilot</span>
+            <span class="chip">ChatGPT</span>
+            <span class="chip">NotebookLM</span>
+            <span class="chip">AI Code Review</span>
+            <span class="chip">Prompt Engineering</span>
+          </div>
+        </div>
+
+        <div class="section">
+          <h2 class="section-title">DevOps</h2>
+          <div class="chips">
+            <span class="chip">Git</span>
+            <span class="chip">GitLab</span>
+            <span class="chip">CI/CD</span>
+            <span class="chip">GitHub Actions</span>
+            <span class="chip">Vercel</span>
+            <span class="chip">EAS Build</span>
+            <span class="chip">EAS Submit</span>
+            <span class="chip">Fastlane</span>
+            <span class="chip">TestFlight</span>
+            <!-- <span class="chip">Firebase App Distribution</span> -->
+            <!-- <span class="chip">Coolify</span> -->
+          </div>
+        </div>
+      </aside>
+
+      <main class="main">
+        <div class="hero">
+          <h2 class="section-title">Resumo Profissional</h2>
+          <p class="summary">
+            Atuo como Desenvolvedor Mobile com experiência em liderança técnica,
+            cerca de 5 anos no desenvolvimento de aplicações mobile e
+            aproximadamente 3 anos atuando com outras tecnologias e stacks.
+            Trabalho com React, React Native e Flutter, com foco em performance,
+            usabilidade e boas práticas de UX/UI. Utilizo ferramentas de
+            Inteligência Artificial para apoiar análise de documentação, revisão
+            de código e produtividade no desenvolvimento. Possuo vivência com
+            sistemas ERP para Telecom, marketplaces e aplicativos de delivery.
+          </p>
+        </div>
+
+        <section class="section">
+          <h2 class="section-title">Experiência Profissional</h2>
+
+          <article class="entry">
+            <div class="entry-header">
+              <div class="entry-header-left">
+                <h3 class="entry-title">
+                  Zeine – Empresa de tecnologia e branding
+                </h3>
+                <p class="entry-role">Software Developer / Mobile Engineer</p>
+              </div>
+              <div class="entry-header-right">
+                <span class="entry-date">abr 2024 – dez 2025</span>
+              </div>
+            </div>
+            <p class="entry-location">Sinop – MT</p>
+            <ul class="entry-list">
+              <li>
+                Desenvolvimento e manutenção de aplicações mobile (Android e
+                iOS) e web para diferentes clientes.
+              </li>
+              <li>
+                Atuação com React Native (CLI e Expo) no mobile e React /
+                Next.js no desenvolvimento web.
+              </li>
+              <li>
+                Gerenciamento de builds e releases com EAS Build, incluindo
+                publicação nas lojas e controle de certificados iOS e keystores
+                Android.
+              </li>
+            </ul>
+          </article>
+
+          <article class="entry">
+            <div class="entry-header">
+              <div class="entry-header-left">
+                <h3 class="entry-title">TopSapp – Gestão de Provedores</h3>
+                <p class="entry-role">Software Developer</p>
+              </div>
+              <div class="entry-header-right">
+                <span class="entry-date">jul 2020 – ago 2022</span>
+              </div>
+            </div>
+            <p class="entry-location">Sinop – MT</p>
+            <ul class="entry-list">
+              <li>
+                Desenvolvimento e manutenção de sistemas corporativos (ERP)
+                voltados para provedores de internet.
+              </li>
+              <li>Responsável pela reestruturação do layout da aplicação.</li>
+              <li>
+                Implementação de melhorias de usabilidade e evolução contínua do
+                sistema.
+              </li>
+            </ul>
+          </article>
+        </section>
+
+        <section class="section">
+          <h2 class="section-title">Projetos e Freelance</h2>
+
+          <article class="entry">
+            <div class="entry-header">
+              <div class="entry-header-left">
+                <h3 class="entry-title">Startup – HackaMT</h3>
+                <p class="entry-role">Software Engineer / Web Developer</p>
+              </div>
+              <div class="entry-header-right">
+                <span class="entry-date">set 2025 – Atual</span>
+              </div>
+            </div>
+            <p class="entry-location">Tangará da Serra – MT</p>
+            <ul class="entry-list">
+              <li>
+                Atuação na gestão do projeto, documentação e desenvolvimento de
+                um marketplace web.
+              </li>
+              <li>Desenvolvimento da aplicação utilizando React e Next.js.</li>
+              <li>
+                Colaboração na definição de fluxos, funcionalidades e evolução
+                do produto em ambiente de startup.
+              </li>
+            </ul>
+          </article>
+
+          <article class="entry">
+            <div class="entry-header">
+              <div class="entry-header-left">
+                <h3 class="entry-title">Noah Entregas LTDA</h3>
+                <p class="entry-role">Tech Lead / Mobile Engineer</p>
+              </div>
+              <div class="entry-header-right">
+                <span class="entry-date">dez 2025 – Atual</span>
+              </div>
+            </div>
+            <p class="entry-location">Sinop – MT</p>
+            <ul class="entry-list">
+              <li>
+                Responsável pela liderança técnica e gestão do desenvolvimento
+                da aplicação mobile.
+              </li>
+              <li>Desenvolvimento e manutenção de aplicação mobile.</li>
+              <li>
+                Implementação de melhorias, correções e evolução contínua da
+                aplicação.
+              </li>
+              <li>
+                Gerenciamento de builds e publicação de versões nas lojas
+                (Google Play e App Store).
+              </li>
+            </ul>
+          </article>
+        </section>
+
+        <section class="section">
+          <h2 class="section-title">Formação Acadêmica</h2>
+
+          <div class="edu-item">
+            <h3 class="edu-title">UNIFASIPE – Centro Universitário</h3>
+            <p class="edu-course">
+              Tecnólogo em Análise e Desenvolvimento de Sistemas
+            </p>
+            <p class="edu-meta">
+              fev de 2019 – jul de 2021 • duração aproximada de 3 anos
+            </p>
+          </div>
+
+          <div class="edu-item">
+            <h3 class="edu-title">Descomplica – Faculdade Digital</h3>
+            <p class="edu-course">
+              Pós-graduação em Projetos de Aplicativos Móveis Multiplataforma
+            </p>
+            <p class="edu-meta">jun de 2022 – set de 2023 • 390 horas</p>
+          </div>
+        </section>
+
+        <section class="section">
+          <h2 class="section-title">Idiomas</h2>
+          <div class="lang">Inglês — Básico</div>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
