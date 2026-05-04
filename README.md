@@ -16,7 +16,7 @@
   />
 </p>
 
-<h3 align="center">Hey Bro 🐱‍💻, it's OK?</h3>
+<h3 align="center"><code> Hey Bro 🐱‍💻, it's OK? </code></h3>
 
 ###
 
@@ -49,14 +49,14 @@
 ###
 
 <p align="left">
-        
-  - ```  📱 Mobile Developer  ``` <br>
-  - ```  🎓 Analysis and Systems Development, graduated by  ``` [UNIFASIPE](https://www.fasipe.com.br/) <br>
-  - ```  🎓 Projects of Cross-platform Mobile Applications, postgraduate by  ``` [UniAmérica + Descomplica](https://descomplica.com.br/)  <br>
-  - ```  ⚡️ Highly focused on a programming universe  ```  <br>
- <!--   - ```  🏢 I'm currently working at  ``` [Singular Model](https://www.singularmodel.com.br/)  <br>  -->
+  <code><strong>📱 Mobile Developer</strong></code><br>
+  <code><strong>🎓 Analysis and Systems Development, graduated by</strong></code>
+  <a href="https://www.fasipe.com.br/">UNIFASIPE</a><br>
+  <code><strong>🎓 Projects of Cross-platform Mobile Applications, postgraduate by</strong></code>
+  <a href="https://descomplica.com.br/">UniAmérica + Descomplica</a><br>
+  <code><strong>⚡️ Highly focused on a programming universe</strong></code><br>
+  <!-- <code><strong>🏢 I'm currently working at</strong></code> <a href="https://www.singularmodel.com.br/">Singular Model</a><br> -->
 </p>
-
 
 
 <br clear="right" />
@@ -70,15 +70,11 @@
 
 <br clear="right" />
 
-### <h3 align="center">TECHNOLOGY & TOOLS</h3>
-
-<br>
-
-
+### <h3 align="center"><code> TECHNOLOGY & TOOLS </code></h3>
 
 <div align="center">
 
-  <h3>Core Skills</h3>
+ <h4 align="center">Core Skills</h4>
   <p>
     <img src="https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
     <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
@@ -97,7 +93,7 @@
     <img src="https://img.shields.io/badge/Atomic_Design-111827?style=for-the-badge&logo=storybook&logoColor=FF4785" alt="Atomic Design" />
   </p>
 
-  <h3>Additional Skills</h3>
+  <h4>Additional Skills</h4>
   <p>
     <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=83CD29" alt="Node.js" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
@@ -116,7 +112,7 @@
     <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=58A6FF" alt="SQLite" />
   </p>
 
-  <h3>AI & Tools</h3>
+  <h4>AI & Tools</h4>
   <p>
     <img src="https://img.shields.io/badge/GitHub_Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
     <img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" alt="ChatGPT" />
@@ -125,7 +121,7 @@
     <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" alt="Prompt Engineering" />
   </p>
 
-  <h3>DevOps
+  <h4>DevOps</h4>
   <p>
     <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
     <img src="https://img.shields.io/badge/GitLab-111827?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
@@ -138,4 +134,10 @@
     <img src="https://img.shields.io/badge/TestFlight-111827?style=for-the-badge&logo=appstore&logoColor=0D96F6" alt="TestFlight" />
   </p>
 
+</div>
+
+##
+
+<div align="center">
+  <sub>Building mobile experiences with engineering, usability and a product mindset.</sub>
 </div>
