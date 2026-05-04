@@ -30,6 +30,21 @@
 
 ###
 
+<p align="left">
+  <code><strong>📱 Mobile Developer</strong></code><br>
+  <code><strong>🎓 Analysis and Systems Development, graduated by</strong></code>
+  <a href="https://www.fasipe.com.br/">UNIFASIPE</a><br>
+  <code><strong>🎓 Projects of Cross-platform Mobile Applications, postgraduate by</strong></code>
+  <a href="https://descomplica.com.br/">UniAmérica + Descomplica</a><br>
+  <code><strong>⚡️ Highly focused on a programming universe</strong></code><br>
+  <!-- <code><strong>🏢 I'm currently working at</strong></code> <a href="https://www.singularmodel.com.br/">Singular Model</a><br> -->
+</p>
+
+
+<br clear="right" />
+
+###
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonny-kyuorhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
@@ -44,22 +59,6 @@
     <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
 </p>
-
-###
-
-<p align="left">
-  <code><strong>📱 Mobile Developer</strong></code><br>
-  <code><strong>🎓 Analysis and Systems Development, graduated by</strong></code>
-  <a href="https://www.fasipe.com.br/">UNIFASIPE</a><br>
-  <code><strong>🎓 Projects of Cross-platform Mobile Applications, postgraduate by</strong></code>
-  <a href="https://descomplica.com.br/">UniAmérica + Descomplica</a><br>
-  <code><strong>⚡️ Highly focused on a programming universe</strong></code><br>
-  <!-- <code><strong>🏢 I'm currently working at</strong></code> <a href="https://www.singularmodel.com.br/">Singular Model</a><br> -->
-</p>
-
-
-<br clear="right" />
-
 
 <!-- <div align="center">
 
