@@ -11,7 +11,7 @@
   <img
     align="right"
     alt="Profile Card"
-    style="width: 25%; height: auto;"
+    style="width: 12rem; height: auto;"
     src="https://raw.githubusercontent.com/gist/Kyuorhan/1445a6c546dd1a7b5e8b2df72039207a/raw/e281a60fb9099b6f925a768e07bce9f76b3dabd0/githubcard.svg"
   />
 </p>
@@ -19,7 +19,6 @@
 <h3 align="center"><code> Hey Bro 🐱‍💻, it's OK? </code></h3>
 
 ###
-
 
 <p>
   I'm Jhonny, also known as <strong>Kyuorhan</strong>, a
