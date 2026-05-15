@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cover Letter - Jhonny Limberger Dinarte</title>
+    <style>
+      @page {
+        size: A4;
+        margin: 0;
+      }
+      :root {
+        --bg: #0b1020;
+        --bg-soft: #11182d;
+        --panel: #0f172a;
+        --panel-2: #111c34;
+        --card: rgba(255, 255, 255, 0.05);
+        --border: rgba(255, 255, 255, 0.08);
+        --text: #e5ecff;
+        --muted: #98a6c7;
+        --accent: #5eead4;
+        --accent-2: #60a5fa;
+        --white: #ffffff;
+      }
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        background: #09101d;
+        color: var(--text);
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      body {
+        padding: 12mm 0;
+      }
+      .a4 {
+        width: 210mm;
+        min-height: 297mm;
+        margin: 0 auto;
+        background:
+          radial-gradient(
+            circle at top left,
+            rgba(96, 165, 250, 0.16),
+            transparent 28%
+          ),
+          radial-gradient(
+            circle at top right,
+            rgba(94, 234, 212, 0.1),
+            transparent 25%
+          ),
+          linear-gradient(135deg, #08111f 0%, #0b1020 45%, #0f1830 100%);
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+        border-radius: 6mm;
+        padding: 24mm 18mm;
+        box-sizing: border-box;
+      }
+      h1 {
+        font-size: 17pt;
+        line-height: 1.08;
+        font-weight: bold;
+        color: var(--white);
+        margin: 0 0 2.5mm 0;
+        letter-spacing: -0.2px;
+      }
+      h2 {
+        font-size: 8pt;
+        color: var(--accent);
+        font-weight: bold;
+        margin: 0 0 8mm 0;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+      }
+      .info {
+        font-size: 10pt;
+        color: var(--muted);
+        margin-bottom: 10mm;
+      }
+      .content {
+        font-size: 9.2pt;
+        line-height: 1.55;
+        color: var(--text);
+        text-align: justify;
+      }
+      .signature {
+        margin-top: 18mm;
+        font-size: 9.2pt;
+        color: var(--text);
+      }
+      @media print {
+        body {
+          padding: 0;
+          background: transparent;
+        }
+        .a4 {
+          margin: 0;
+          box-shadow: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="a4">
+      <div class="header" style="margin-bottom: 10mm">
+        <div class="header-inner" style="padding: 0 4mm">
+          <h1 class="name" style="margin-bottom: 2.5mm">
+            Jhonny Limberger Dinarte
+          </h1>
+          <div
+            class="location"
+            style="color: var(--muted); font-size: 9pt; margin-bottom: 6mm"
+          >
+            Florianópolis, Santa Catarina, Brasil
+          </div>
+          <div
+            style="
+              display: flex;
+              gap: 12mm;
+              width: 100%;
+              align-items: flex-start;
+              margin-bottom: 2mm;
+            "
+          >
+            <div>
+              <div
+                style="
+                  font-size: 7pt;
+                  color: var(--accent);
+                  font-weight: bold;
+                  margin-bottom: 1mm;
+                  text-transform: uppercase;
+                  letter-spacing: 0.12em;
+                "
+              >
+                Email
+              </div>
+              <div
+                style="
+                  font-size: 8pt;
+                  color: var(--muted);
+                  word-break: break-word;
+                  line-height: 1.3;
+                "
+              >
+                jk.developrs@gmail.com
+              </div>
+            </div>
+            <div>
+              <div
+                style="
+                  font-size: 7pt;
+                  color: var(--accent);
+                  font-weight: bold;
+                  margin-bottom: 1mm;
+                  text-transform: uppercase;
+                  letter-spacing: 0.12em;
+                "
+              >
+                LinkedIn
+              </div>
+              <div
+                style="
+                  font-size: 8pt;
+                  color: var(--muted);
+                  word-break: break-word;
+                  line-height: 1.3;
+                "
+              >
+                linkedin.com/in/jhonny-kyuorhan
+              </div>
+            </div>
+            <div>
+              <div
+                style="
+                  font-size: 7pt;
+                  color: var(--accent);
+                  font-weight: bold;
+                  margin-bottom: 1mm;
+                  text-transform: uppercase;
+                  letter-spacing: 0.12em;
+                "
+              >
+                GitHub
+              </div>
+              <div
+                style="
+                  font-size: 8pt;
+                  color: var(--muted);
+                  word-break: break-word;
+                  line-height: 1.3;
+                "
+              >
+                github.com/Kyuorhan
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="section"
+        style="
+          background: rgba(255, 255, 255, 0.04);
+          border: 1px solid var(--border);
+          border-radius: 6mm;
+          padding: 8mm;
+          margin-top: 8mm;
+          margin-bottom: 0;
+          min-height: 120mm;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+          height: calc(100vh - 120mm);
+        "
+      >
+        <div>
+          <h2 class="section-title" style="margin-bottom: 4mm">
+            Carta de Apresentação
+          </h2>
+          <div class="content">
+            Prezado recrutador,<br /><br />
+            Escrevo para expressar meu interesse em integrar sua equipe como
+            Engenheiro Sênior de Mobile. Tenho mais de 5 anos de experiência
+            desenvolvendo aplicações escaláveis para iOS e Android com React
+            Native, além de mais de 3 anos atuando com Flutter e tecnologias web
+            (React/Next.js), o que me proporcionou uma base sólida em
+            desenvolvimento mobile e multiplataforma.<br /><br />
+            Minha trajetória inclui forte domínio em arquitetura de software,
+            Clean Code, testes automatizados e pipelines de CI/CD. Contribuí em
+            projetos de ERP para Telecom, marketplaces e plataformas de
+            delivery, sempre priorizando performance, manutenibilidade e
+            experiência do usuário. Também possuo experiência com ferramentas
+            DevOps para automação de builds e publicações, garantindo entregas
+            eficientes e confiáveis.<br /><br />
+            Como pessoa com deficiência (PCD), valorizo ambientes inclusivos e
+            acredito que a diversidade fortalece equipes e impulsiona a
+            inovação. Estou aberto para discutir quaisquer adaptações
+            necessárias no ambiente de trabalho. Além disso, possuo carta de
+            recomendação do meu último empregador, disponível mediante
+            solicitação.<br /><br />
+            Sou apaixonado por tecnologia e melhoria contínua, e estou motivado
+            para contribuir com minhas habilidades e experiência para sua
+            empresa. Tenho confiança de que meu perfil técnico e postura
+            proativa agregarão valor ao seu time.<br /><br />
+            Agradeço pela consideração da minha candidatura. Estou disponível
+            para entrevista e ansioso para conversar sobre como posso contribuir
+            com seus projetos.
+          </div>
+        </div>
+        <div style="margin-top: 18mm">
+          <span class="signature"
+            >Atenciosamente,<br />Jhonny Limberger Dinarte</span
+          >
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
