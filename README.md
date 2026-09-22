@@ -22,7 +22,7 @@
 
 <p>
   I'm Jhonny, also known as <strong>Kyuorhan</strong>, a
-  <strong>Senior Mobile Engineer</strong> focused on React Native, Flutter,
+  <strong>Mobile Software Engineer</strong> focused on React Native, Flutter,
   mobile releases and UX/UI-minded product development. I also work with web
   technologies, building experiences with attention to performance, usability,
   clean code and continuous learning.
@@ -31,7 +31,7 @@
 ###
 
 <p align="left">
-  <code><strong>📱 Mobile Developer</strong></code><br>
+  <code><strong>📱 Mobile Software Engineer</strong></code><br>
   <code><strong>🎓 Analysis and Systems Development, graduated by</strong></code>
   <a href="https://www.fasipe.com.br/">UNIFASIPE</a><br>
   <code><strong>🎓 Projects of Cross-platform Mobile Applications, postgraduate by</strong></code>
