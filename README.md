@@ -20,18 +20,40 @@
 
 ###
 
-<p>
+<!-- <p>
   I'm Jhonny, also known as <strong>Kyuorhan</strong>, a
   <strong>Mobile Software Engineer</strong> focused on React Native, Flutter,
   mobile releases and UX/UI-minded product development. I also work with web
   technologies, building experiences with attention to performance, usability,
   clean code and continuous learning.
+</p> -->
+
+<p>
+  I'm Jhonny, also known as <strong>Kyuorhan</strong>, a
+  <strong>Software Engineer</strong> focused on
+  <strong>Mobile & AI Engineering</strong>, with over 5 years of experience
+  building and evolving applications for <strong>iOS and Android</strong>
+  using React Native, along with experience in Flutter and web technologies
+  such as React and Next.js.
+</p>
+
+<p>
+  My work focuses on <strong>software architecture, Clean Code, automated
+  testing, CI/CD and DevOps</strong>, with an emphasis on performance,
+  scalability, usability and reliable delivery.
+</p>
+
+<p>
+  I'm currently expanding my work in <strong>AI Engineering</strong>, exploring
+  <strong>LLMs, AI agents and automation</strong> applied to software
+  development, including code analysis, testing, documentation and
+  development workflows.
 </p>
 
 ###
 
 <p align="left">
-  <code><strong>📱 Mobile Software Engineer</strong></code><br>
+  <code><strong>💻 Software Engineer | Mobile & AI Engineering</strong></code><br>
   <code><strong>🎓 Analysis and Systems Development, graduated by</strong></code>
   <a href="https://www.fasipe.com.br/">UNIFASIPE</a><br>
   <code><strong>🎓 Projects of Cross-platform Mobile Applications, postgraduate by</strong></code>
@@ -91,6 +113,42 @@
     <img src="https://img.shields.io/badge/Atomic_Design-111827?style=for-the-badge&logo=storybook&logoColor=FF4785" alt="Atomic Design" />
   </p>
 
+  <h4>AI Engineering</h4>
+  <p>
+    <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" alt="LLMs" />
+    <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" alt="AI Agents" />
+    <img src="https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" alt="AI Automation" />
+    <img src="https://img.shields.io/badge/AI_Code_Review-111827?style=for-the-badge&logo=github&logoColor=white" alt="AI Code Review" />
+    <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" alt="Prompt Engineering" />
+    <img src="https://img.shields.io/badge/GitHub_Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+    <img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" alt="ChatGPT" />
+    <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  </p>
+
+
+  <!-- 
+  <h4>AI & Tools</h4>
+  <p>
+    <img src="https://img.shields.io/badge/GitHub_Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+    <img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" alt="ChatGPT" />
+    <img src="https://img.shields.io/badge/NotebookLM-111827?style=for-the-badge&logo=google&logoColor=8AB4F8" alt="NotebookLM" />
+    <img src="https://img.shields.io/badge/AI_Code_Review-111827?style=for-the-badge&logo=github&logoColor=white" alt="AI Code Review" />
+    <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" alt="Prompt Engineering" />
+  </p> -->
+
+  <h4>DevOps</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+    <img src="https://img.shields.io/badge/GitLab-111827?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
+    <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="CI/CD" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <img src="https://img.shields.io/badge/EAS_Build-111827?style=for-the-badge&logo=expo&logoColor=A78BFA" alt="EAS Build" />
+    <img src="https://img.shields.io/badge/EAS_Submit-111827?style=for-the-badge&logo=expo&logoColor=A78BFA" alt="EAS Submit" />
+    <img src="https://img.shields.io/badge/Fastlane-111827?style=for-the-badge&logo=fastlane&logoColor=00F200" alt="Fastlane" />
+    <img src="https://img.shields.io/badge/TestFlight-111827?style=for-the-badge&logo=appstore&logoColor=0D96F6" alt="TestFlight" />
+  </p>
+
   <h4>Additional Skills</h4>
   <p>
     <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=83CD29" alt="Node.js" />
@@ -109,33 +167,10 @@
     <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
     <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=58A6FF" alt="SQLite" />
   </p>
-
-  <h4>AI & Tools</h4>
-  <p>
-    <img src="https://img.shields.io/badge/GitHub_Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-    <img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" alt="ChatGPT" />
-    <img src="https://img.shields.io/badge/NotebookLM-111827?style=for-the-badge&logo=google&logoColor=8AB4F8" alt="NotebookLM" />
-    <img src="https://img.shields.io/badge/AI_Code_Review-111827?style=for-the-badge&logo=github&logoColor=white" alt="AI Code Review" />
-    <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logo=openai&logoColor=74AA9C" alt="Prompt Engineering" />
-  </p>
-
-  <h4>DevOps</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-    <img src="https://img.shields.io/badge/GitLab-111827?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
-    <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="CI/CD" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-    <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/EAS_Build-111827?style=for-the-badge&logo=expo&logoColor=A78BFA" alt="EAS Build" />
-    <img src="https://img.shields.io/badge/EAS_Submit-111827?style=for-the-badge&logo=expo&logoColor=A78BFA" alt="EAS Submit" />
-    <img src="https://img.shields.io/badge/Fastlane-111827?style=for-the-badge&logo=fastlane&logoColor=00F200" alt="Fastlane" />
-    <img src="https://img.shields.io/badge/TestFlight-111827?style=for-the-badge&logo=appstore&logoColor=0D96F6" alt="TestFlight" />
-  </p>
-
 </div>
 
 ##
 
 <div align="center">
-  <sub>Building mobile experiences with engineering, usability and a product mindset.</sub>
+  <sub>Building software with engineering, product thinking and AI-driven workflows.</sub>
 </div>
